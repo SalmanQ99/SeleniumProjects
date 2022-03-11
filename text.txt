@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is D8E0-F6B5
-
- Directory of C:\Users\Hp\Desktop\Projects
-
-03/11/2022  01:37 AM    <DIR>          .
-03/11/2022  01:37 AM    <DIR>          ..
-03/11/2022  01:37 AM                 0 text.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  81,053,462,528 bytes free
+change file
